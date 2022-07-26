@@ -1,0 +1,155 @@
+{
+  "name": "peoples",
+  "people": [
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/abraham-govaerts/",
+      "href": "https://wolnelektury.pl/api/authors/abraham-govaerts/",
+      "name": "Abraham Govaerts",
+      "slug": "abraham-govaerts"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/abraham-hondius/",
+      "href": "https://wolnelektury.pl/api/authors/abraham-hondius/",
+      "name": "Abraham Hondius",
+      "slug": "abraham-hondius"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/abraham-mignon/",
+      "href": "https://wolnelektury.pl/api/authors/abraham-mignon/",
+      "name": "Abraham Mignon",
+      "slug": "abraham-mignon"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-asnyk/",
+      "href": "https://wolnelektury.pl/api/authors/adam-asnyk/",
+      "name": "Adam Asnyk",
+      "slug": "adam-asnyk"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-chmielowski/",
+      "href": "https://wolnelektury.pl/api/authors/adam-chmielowski/",
+      "name": "Adam Chmielowski",
+      "slug": "adam-chmielowski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-kaczanowski/",
+      "href": "https://wolnelektury.pl/api/authors/adam-kaczanowski/",
+      "name": "Adam Kaczanowski",
+      "slug": "adam-kaczanowski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-mickiewicz/",
+      "href": "https://wolnelektury.pl/api/authors/adam-mickiewicz/",
+      "name": "Adam Mickiewicz",
+      "slug": "adam-mickiewicz"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-m-ski/",
+      "href": "https://wolnelektury.pl/api/authors/adam-m-ski/",
+      "name": "Adam M-ski",
+      "slug": "adam-m-ski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-wiedemann/",
+      "href": "https://wolnelektury.pl/api/authors/adam-wiedemann/",
+      "name": "Adam Wiedemann",
+      "slug": "adam-wiedemann"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adam-zagajewski/",
+      "href": "https://wolnelektury.pl/api/authors/adam-zagajewski/",
+      "name": "Adam Zagajewski",
+      "slug": "adam-zagajewski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adolf-abrahamowicz/",
+      "href": "https://wolnelektury.pl/api/authors/adolf-abrahamowicz/",
+      "name": "Adolf Abrahamowicz",
+      "slug": "adolf-abrahamowicz"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adolf-dygasinski/",
+      "href": "https://wolnelektury.pl/api/authors/adolf-dygasinski/",
+      "name": "Adolf Dygasiński",
+      "slug": "adolf-dygasinski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/adolphe-rette/",
+      "href": "https://wolnelektury.pl/api/authors/adolphe-rette/",
+      "name": "Adolphe Retté",
+      "slug": "adolphe-rette"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/agnieszka-fraczek/",
+      "href": "https://wolnelektury.pl/api/authors/agnieszka-fraczek/",
+      "name": "Agnieszka Frączek",
+      "slug": "agnieszka-fraczek"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/agnieszka-wolny-hamkalo/",
+      "href": "https://wolnelektury.pl/api/authors/agnieszka-wolny-hamkalo/",
+      "name": "Agnieszka Wolny-Hamkało",
+      "slug": "agnieszka-wolny-hamkalo"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/ajschylos/",
+      "href": "https://wolnelektury.pl/api/authors/ajschylos/",
+      "name": "Ajschylos",
+      "slug": "ajschylos"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/albert-samain/",
+      "href": "https://wolnelektury.pl/api/authors/albert-samain/",
+      "name": "Albert Samain",
+      "slug": "albert-samain"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-bruckner/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-bruckner/",
+      "name": "Aleksander Brückner",
+      "slug": "aleksander-bruckner"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-brueckner/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-brueckner/",
+      "name": "Aleksander Brückner",
+      "slug": "aleksander-brueckner"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-dumas-ojciec/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-dumas-ojciec/",
+      "name": "Aleksander Dumas (ojciec)",
+      "slug": "aleksander-dumas-ojciec"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-dumas-syn/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-dumas-syn/",
+      "name": "Aleksander Dumas (syn)",
+      "slug": "aleksander-dumas-syn"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-fredro/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-fredro/",
+      "name": "Aleksander Fredro",
+      "slug": "aleksander-fredro"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-gierymski/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-gierymski/",
+      "name": "Aleksander Gierymski",
+      "slug": "aleksander-gierymski"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-kokular/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-kokular/",
+      "name": "Aleksander Kokular",
+      "slug": "aleksander-kokular"
+    },
+    {
+      "url": "https://wolnelektury.pl/katalog/autor/aleksander-kotsis/",
+      "href": "https://wolnelektury.pl/api/authors/aleksander-kotsis/",
+      "name": "Aleksander Kotsis",
+      "slug": "aleksander-kotsis"
+    }
+  ]
+}
